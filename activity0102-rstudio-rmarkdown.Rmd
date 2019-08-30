@@ -6,6 +6,7 @@ output:
   html_document: 
     fig_height: 6
     fig_width: 8
+    highlight: tango
 ---
 
 ### Load packages
